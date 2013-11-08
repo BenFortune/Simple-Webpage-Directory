@@ -1,3 +1,3 @@
-Sample webpage directory to start new web project with
+Sample web directory to start new project with
 =========
 Contains HTML5 Boilerplate index page
